@@ -1,0 +1,12 @@
+{
+  "name": "test2025",
+  "version": "1.0.0",
+  "description": "Test for Codespace in 2025",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
